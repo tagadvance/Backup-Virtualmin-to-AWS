@@ -1,0 +1,4 @@
+#!/bin/bash
+
+DIRECTORY=/root/backups
+BUCKET_PATH=foo/domains
