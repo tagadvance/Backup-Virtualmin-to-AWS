@@ -1,2 +1,5 @@
 # eclipse
 .project
+
+# run-time configuration
+backup.config
