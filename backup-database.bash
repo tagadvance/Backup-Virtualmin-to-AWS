@@ -9,7 +9,7 @@
 ##
 
 SOURCE_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-CONFIGURATION_FILE=backup.config
+CONFIGURATION_FILE=backup-database.config
 CONFIG="$SOURCE_DIRECTORY/$CONFIGURATION_FILE"
 
 if [ ! -f $CONFIG ]; then

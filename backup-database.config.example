@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DIRECTORY=/root/backups/database/
+USER=user
+PASSWORD=password
+BUCKET_PATH=foo/database

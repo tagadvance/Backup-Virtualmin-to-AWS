@@ -12,7 +12,7 @@ mkdir ~/git; cd ~/git
 git clone https://github.com/tagadvance/backup.git
 # configuration
 cd backup
-cp backup.config.example backup.config
+cp backup-database.config.example backup-database.config
 # edit backup.config, e.g.
 nano -w backup.config
 # configure cron job
