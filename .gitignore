@@ -2,4 +2,4 @@
 .project
 
 # run-time configuration
-backup.config
+*.config
