@@ -13,8 +13,8 @@ git clone https://github.com/tagadvance/backup.git
 # configuration
 cd backup
 cp backup-database.config.example backup-database.config
-# edit backup.config, e.g.
-nano -w backup.config
+# edit backup-database.config, e.g.
+nano -w backup-database.config
 # configure cron job
 crontab -e
 # append to the crontab:
