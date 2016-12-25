@@ -9,7 +9,7 @@ pip install awscli
 aws configure
 # clone git repository
 mkdir ~/git; cd ~/git
-git clone https://github.com/tagadvance/backup.git
+git clone https://github.com/tagadvance/Backup-Virtualmin-to-AWS.git
 # configuration
 cd backup
 cp backup-database.config.example backup-database.config
